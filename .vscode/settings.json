@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/80fa953b-94b6-4f52-a2ed-adcde112a151/resourceGroups/dotnetest/providers/Microsoft.Web/sites/dotnetest"
+}
